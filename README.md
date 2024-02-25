@@ -1,0 +1,1 @@
+# complete flow of the project to predict the sneaker price
